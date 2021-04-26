@@ -1,1 +1,1 @@
-# Interactive-shop
+# Интерактивный сайт GB
